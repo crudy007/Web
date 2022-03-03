@@ -1,0 +1,12 @@
+
+.forst_3_birds
+{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.forst_3_birds_text
+{
+    display: flex;
+}
