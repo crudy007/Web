@@ -1,0 +1,18 @@
+.picture_of_3_birds
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.title_of_3_birds
+{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.text_of_3_birds
+{
+    display: flex;
+    border: 10px blue;
+    padding: 10px;
+ 
+}
